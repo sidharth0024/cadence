@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Cinematic real-life RPG and adaptive behavior progression system transforming real-world actions into measurable personal and rank development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
